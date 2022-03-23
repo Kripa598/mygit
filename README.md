@@ -1,2 +1,2 @@
-# mygit
-repo to understand the git operations
+# mygittest
+this is a repo to understand the git operations
